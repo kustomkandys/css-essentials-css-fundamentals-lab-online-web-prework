@@ -14,7 +14,8 @@ img {
 nav a {
   padding-left: 10px;
   padding-right: 10px;
-  margin: auto;
+  margin: 0 auto;
+  text-align: center;
   background-color: orange;
 }
 
