@@ -11,9 +11,10 @@ h1 {
 img {
  
 }
-a {
+nav a {
   padding-left: 10px;
   padding-right: 10px;
+  text-align: center;
   background-color: orange;
 }
 
